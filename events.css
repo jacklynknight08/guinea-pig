@@ -1,0 +1,32 @@
+/*Guinea Pig Element Styling*/
+
+.add-color {
+	color: blue;
+}
+
+.make-large {
+	font-size: 3em;
+}
+
+.add-border {
+	border: 2px dashed orange;
+}
+
+.add-rounding {
+	border-radius: 20px;
+}
+
+/*Section & Button Styling*/
+
+section:first-of-type {
+	font-weight: 900;
+}
+
+section:last-of-type {
+	font-weight: 900;
+	font-style: italic;
+}
+
+button {
+	display: block;
+}
